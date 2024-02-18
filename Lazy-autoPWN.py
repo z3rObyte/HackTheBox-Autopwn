@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 from pwn import * # pip3 install pwn
+import requests
 
 banner = """
                                                                                                                
