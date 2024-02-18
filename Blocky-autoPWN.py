@@ -2,6 +2,7 @@
 
 import zipfile
 from pwn import * # pip3 install pwn
+import requests
 
 banner = """
     ____  __           __                           __        ____ _       ___   __
