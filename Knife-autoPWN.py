@@ -2,6 +2,7 @@
 
 #============= imports ===============
 from pwn import * # pip3 install pwn
+import requests
 #=====================================
 
 def banner():
