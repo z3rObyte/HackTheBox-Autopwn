@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 from pwn import *
+import requests
 
 # ctrl c
 
